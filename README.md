@@ -36,7 +36,7 @@ Install **Python module**
 
 ### Usage
 
-    python3 -m masswappalyzer -i sample/top-20-websites-2020.txt -o sample/top-20-websites-2020.xlsx
+    python3 -m masswappalyzer -i pulse-subdomains.csv -o pulse-subdomains.xlsx
 
 Output: 
 ```
