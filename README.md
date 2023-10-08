@@ -3,10 +3,7 @@
 Run [Wappalyzer]() asynchronously on a list of CISA provided DotGov domains to generate an Excel file containing the results for market analysis. 
 
 CISA dotgov-data github repo: https://github.com/cisagov/dotgov-data
-CISA dotgov-data hostnames list from 2017: https://github.com/cisagov/dotgov-data/blob/main/dotgov-websites/censys-federal-snapshot.csv
 CISA dotgov-data CSV hostnames list from Rapid7 DNS lookup: https://github.com/cisagov/dotgov-data/blob/main/dotgov-websites/pulse-subdomains-snapshot-06-08-2020-https.csv
-Both files need to be reformated for Wappalyzer to properly utilize.
-
 
 The generated Excel file will have 2 sheets.
 
